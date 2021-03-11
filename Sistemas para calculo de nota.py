@@ -2,7 +2,7 @@
 """
 Created on Tue Jun  2 23:45:48 2020
 
-@author: User
+@author: Carlos Nowatzki, para o instituto UNISINOS
 """
 
 alunos = {} # cria um dicionário para armazenar os dados dos alunos da turma
